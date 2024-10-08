@@ -1,4 +1,4 @@
-# conditional_CS_divergence
+# conditional_CS_divergence (Coming soon)
 
 The implementation of conditional Cauchy-Schwarz divergence in the following paper
 
